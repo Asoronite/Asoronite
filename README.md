@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **enes.koese.de@gmail.com**
 
-- 📄 Know about my experiences [linkedin.com/in/enes-köse-1a5835257](linkedin.com/in/enes-köse-1a5835257)
+- 📄 Know about my experiences [linkedin.com/in/enes-köse](https://www.linkedin.com/in/enes-k%C3%B6se-1a5835257/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

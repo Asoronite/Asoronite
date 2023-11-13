@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Front-end Development**
 
-- 🌱 I’m currently learning **JavaScript, React.js, Java**
+- 🌱 I’m currently learning **JavaScript, React.js, Java, P5.js**
 
 - 📫 How to reach me **enes.koese.de@gmail.com**
 
